@@ -1,0 +1,5 @@
+package com.mysmartshop.order.model;
+
+public class CartItem {
+
+}

@@ -1,0 +1,5 @@
+package com.mysmartshop.authserver.dto;
+
+public class Message {
+
+}

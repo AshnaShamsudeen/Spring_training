@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.mysmartshop.authserver.util.AuthentificationFilter.java&apos; to &apos;AuthenticationFilter.java&apos;&#x0D;&#x0A;- Original project: &apos;auth-server&apos;&#x0D;&#x0A;- Original element: &apos;com.mysmartshop.authserver.util.AuthentificationFilter.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.mysmartshop.authserver.util.AuthenticationFilter.java&apos;" description="Rename compilation unit &apos;AuthentificationFilter.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.mysmartshop.authserver.util{AuthentificationFilter.java" name="AuthenticationFilter.java" references="false" stamp="1689929161198" version="1.0"/>
+</session>
